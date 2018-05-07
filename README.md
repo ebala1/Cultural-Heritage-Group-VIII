@@ -33,7 +33,7 @@ Sitzung 04 (02.05.2018):
 
 -Zusammen die Bilder kurz durchgehen 
 
--Datenbank anle  gen, mit Merkmalen die eindeutig zeigen, was als weiblich, männlich oder human bezeichnet werden kann
+-Datenbank anlegen, mit Merkmalen die eindeutig zeigen, was als weiblich, männlich oder human bezeichnet werden kann
 
 
 Link zu den Bildern:
