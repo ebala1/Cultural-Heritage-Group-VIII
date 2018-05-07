@@ -46,7 +46,7 @@ Bis zur nächsten Woche:
 
 *Images-Gender:*
 
-[![Images-Edited|Google Drive](https://image.ibb.co/eRFVon/google_drive_logo.jpg)](https://drive.google.com/open?id=1yHSwLRjFWr03dvh_SYK67EFnmbd90YbN)
+[![Images-Gender|Google Drive](https://image.ibb.co/eRFVon/google_drive_logo.jpg)](https://drive.google.com/open?id=1yHSwLRjFWr03dvh_SYK67EFnmbd90YbN)
 
 
 
