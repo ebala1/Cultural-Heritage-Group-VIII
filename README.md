@@ -29,3 +29,12 @@ Sitzung 04 (02.05.2018):
 -Datenbank anle  gen, mit Merkmalen die eindeutig zeigen, was als weiblich, männlich oder human bezeichnet werden kann
 
 
+Link zu den Bildern:
+Images-Edited:
+https://drive.google.com/open?id=1KkN06yyineu1V6Q8mkar38t0XHAABS8t
+
+Images-Gender:
+https://drive.google.com/open?id=1yHSwLRjFWr03dvh_SYK67EFnmbd90YbN
+
+
+
