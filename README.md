@@ -12,6 +12,18 @@ Methode, die zur Mustererkennung in digitalen Bildern verwendet wird. Haar Casca
 Klassifizierer, die darauf trainiert werden können, bestimmte Objekte zu erkennen.
 Diese sind frei verfügbar, können aber auch mittels eigener Bilder und Aufnahmen für spezifische Zwecke erstellt werden.
 
+**Projekt - Features**
+
+- **Sprache:** *Python* (evtl. auch C++)
+
+- **Navigation/Menü:** Menü besteht aus Bildauswahl, Auswahl des Users soll auf Merkmale druch das Programm untersucht werden 
+
+- Ausgabe: Analyse ergab Kategorie x aufgrund der Attribute y
+
+- es soll eine Rückfrage erfolgen, ob noch ein Bild ausgegeben werden soll, andernfalls soll das Programm beendet werden
+
+ - **Extras:** lustige Überschriften/"Stories" zu ausgewählten Bildern, "Alien-Kategorie" (*Akte X*)
+
 
 **Sitzung 03 (25.04.2018): Planung / Aufgabenverteilung**
 
