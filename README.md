@@ -14,7 +14,7 @@ Diese sind frei verfügbar, können aber auch mittels eigener Bilder und Aufnahm
 
 **Projekt - Features:**
 
-- **Sprache:** *Python* (evtl. auch C++)
+- **Sprache:** *Python* (evtl. auch *C++*)
 
 - **Navigation/Menü:** Menü besteht aus Bildauswahl, Auswahl des Users soll auf Merkmale druch das Programm untersucht werden 
 
