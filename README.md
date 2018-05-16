@@ -16,13 +16,13 @@ Diese sind frei verfügbar, können aber auch mittels eigener Bilder und Aufnahm
 
 - **Sprache:** *Python* (evtl. auch *C++*)
 
-- **Navigation/Menü:** Menü besteht aus Bildauswahl, Auswahl des Users soll auf Merkmale druch das Programm untersucht werden 
+- **Navigation/Menü:** Menü besteht aus Bildauswahl, Auswahl des Users soll auf Merkmale durch das Programm untersucht werden 
 
 - Ausgabe: Analyse ergab Kategorie x aufgrund der Attribute y
 
 - es soll eine Rückfrage erfolgen, ob noch ein Bild ausgegeben werden soll, andernfalls soll das Programm beendet werden
 
- - **Extras:** lustige Überschriften/"Stories" zu ausgewählten Bildern, "Alien-Kategorie" (*Akte X*)
+ - **Extras:** lustige Überschriften/"Stories" zu ausgewählten Bildern
 
 
 **Sitzung 03 (25.04.2018): Planung / Aufgabenverteilung**
