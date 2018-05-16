@@ -10,5 +10,5 @@ untersuche_Bild()
 elif choice ==2:
 sys.exit(0)
 else:
-print(“Bitter nur 1 oder 2 eingeben”)
+print(“Bitte nur 1 oder 2 eingeben”)
 
