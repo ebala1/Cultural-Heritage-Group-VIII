@@ -16,6 +16,8 @@ Diese sind frei verfügbar, können aber auch mittels eigener Bilder und Aufnahm
 
 - **Sprache:** *Python* (evtl. auch *C++*)
 
+- **Framework:** *OpenCV*
+
 - **Navigation/Menü:** Menü besteht aus Bildauswahl, Auswahl des Users soll auf Merkmale durch das Programm untersucht werden 
 
 - Ausgabe: Analyse ergab Kategorie x aufgrund der Attribute y
