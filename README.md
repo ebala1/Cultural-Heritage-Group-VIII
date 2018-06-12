@@ -67,11 +67,11 @@ Bis zur nächsten Woche:
 
 *Bilder Vergleichen mit dem Ergebnis True oder False:*
 
-[![Tutorial|Youtube](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+[![Tutorial|YouTube](https://www.youtube.com/watch?v=T5pRlIbr6gg)
 
-[![Tutorial|Youtube](https://www.youtube.com/watch?v=LNzC4NYYWdg)
+[![Tutorial|YouTube](https://www.youtube.com/watch?v=LNzC4NYYWdg)
 
-[![Tutorial|Youtube](https://www.youtube.com/watch?v=KDxLJ6GrSwI)
+[![Tutorial|YouTube](https://www.youtube.com/watch?v=KDxLJ6GrSwI)
 
 
 
