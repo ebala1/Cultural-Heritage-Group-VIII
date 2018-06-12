@@ -63,4 +63,22 @@ Bis zur nächsten Woche:
 [![Images-Gender|Google Drive](https://image.ibb.co/eRFVon/google_drive_logo.jpg)](https://drive.google.com/open?id=1yHSwLRjFWr03dvh_SYK67EFnmbd90YbN)
 
 
+**Links zu den Tutorials**
+
+*Bilder Vergleichen mit dem Ergebnis True oder False:*
+
+[![Tutorial|Youtube](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+
+[![Tutorial|Youtube](https://www.youtube.com/watch?v=LNzC4NYYWdg)
+
+[![Tutorial|Youtube](https://www.youtube.com/watch?v=KDxLJ6GrSwI)
+
+
+
+
+
+
+
+
+
 
