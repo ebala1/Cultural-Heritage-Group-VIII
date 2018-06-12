@@ -67,11 +67,11 @@ Bis zur nächsten Woche:
 
 *Bilder Vergleichen mit dem Ergebnis True oder False:*
 
-[![Tutorial|YouTube](https://cdn.iconscout.com/public/images/icon/free/png-128/youtube-logo-social-media-3f4643d91d60144c-128x128.png)(https://www.youtube.com/watch?v=T5pRlIbr6gg)
+[![Tutorial|YouTube](https://cdn.iconscout.com/public/images/icon/free/png-128/youtube-logo-social-media-3f4643d91d60144c-128x128.png)](https://www.youtube.com/watch?v=T5pRlIbr6gg)
 
-[![Tutorial|YouTube](https://cdn.iconscout.com/public/images/icon/free/png-128/youtube-logo-social-media-3f4643d91d60144c-128x128.png)(https://www.youtube.com/watch?v=LNzC4NYYWdg)
+[![Tutorial|YouTube](https://cdn.iconscout.com/public/images/icon/free/png-128/youtube-logo-social-media-3f4643d91d60144c-128x128.png)](https://www.youtube.com/watch?v=LNzC4NYYWdg)
 
-[![Tutorial|YouTube](https://cdn.iconscout.com/public/images/icon/free/png-128/youtube-logo-social-media-3f4643d91d60144c-128x128.png)(https://www.youtube.com/watch?v=KDxLJ6GrSwI)
+[![Tutorial|YouTube](https://cdn.iconscout.com/public/images/icon/free/png-128/youtube-logo-social-media-3f4643d91d60144c-128x128.png)](https://www.youtube.com/watch?v=KDxLJ6GrSwI)
 
 
 *Python/Tkinter: GUI*
