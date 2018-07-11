@@ -52,6 +52,20 @@ Bis zur nächsten Woche:
 - Datenbank anlegen, mit Merkmalen die eindeutig zeigen, was als weiblich, männlich oder human bezeichnet werden kann
 
 
+**Roadmap - Vorhaben über die nächsten vier Wochen:**
+
+ - User Interface aufbauen 
+ - Bilder zur Analyse auswählen
+ - zwei Bilder einlesen lassen (Stereotypen: männlich/weiblich) ->Vergleich mit der Datenbank -> Ausgabe der Differenz in Prozent Bestimmung des Geschlechts 
+
+
+**Aufgabenverteilung:**
+
+Maria : GUI
+Ebru, Frederike & Merve: Code für Bilder einlesen & vergleichen
+Iris: Code für die Prozentausgabe
+
+
 **Links zu den Bildern**
 
 *Images-Edited:*
