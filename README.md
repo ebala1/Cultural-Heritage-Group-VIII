@@ -61,7 +61,7 @@ Bis zur nächsten Woche:
 
 **Aufgabenverteilung:**
 
-- Maria : GUI
+- Maria : GUI --> Implementierung folgt noch
 - Ebru, Frederike & Merve: Code für Bilder einlesen & vergleichen
 - Iris: Code für die Prozentausgabe
 
